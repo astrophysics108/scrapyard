@@ -662,14 +662,16 @@ export default function ExampleCity() {
             ),
             'What if my parents are concerned?': (
               <>
-                We’re here to help! Our parents guide will be released soon, but
-                they can reach out to us at{' '}
+                We’re here to help! Here’s our <a href="https://docs.google.com/document/d/179s8jCSdt1z2kLGslf5ShPb7VvDTsZ4I/edit?usp=sharing&ouid=103203442201930622890&rtpof=true&sd=true" class="css-1lpou4j">parent's guide</a>
+                or they can reach out to us at{' '}
                 {/* TODO: Change this email to your event's email */}
                 <Link href="cambridge@scrapyard.hackclub.com">
                   {/* TODO: Change this email to your event's email */}
                   cambridge@scrapyard.hackclub.com
                 </Link>{' '}
-                for questions.
+                for questions. The entire vent will be 
+
+  
               </>
             ),
             'What if I have more questions?': (
